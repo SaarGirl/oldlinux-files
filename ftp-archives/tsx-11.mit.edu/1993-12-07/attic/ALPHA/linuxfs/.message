@@ -1,4 +1,0 @@
-This is *not* the official linux filesystem, despite the name.  It is a
-modified version of the minix filesystem to have 30 character long filenames.
-You *have* been warned... ;-)
-  -mkj
